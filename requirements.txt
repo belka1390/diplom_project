@@ -1,0 +1,7 @@
+selenium
+pandas
+python-dotenv
+beautifulsoup4
+undetected-chromedriver
+requests
+setuptools
